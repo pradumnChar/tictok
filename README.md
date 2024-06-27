@@ -1,2 +1,2 @@
-# tictok
+# TicTok GAME
 React project
